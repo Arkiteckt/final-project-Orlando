@@ -13,10 +13,10 @@ It must meet the project requirements below, but beyond that, feel free to use y
 * Your project contains a `README.md` file that explains what your project is and how to use it
 
 * Covid Tracker that shows total cases worldwide for the last 6 months
--->Includes Deaths, Confirmed and Recovery total worldwide
--->Also include buttons to get to CDC page
--->Search bar to search by gender, race and nationality 
--->Map (Trying to figure out how to add a map)
+* Includes Deaths, Confirmed and Recovery total worldwide
+* Also include buttons to get to CDC page
+* Search bar to search by country, race, gender and nationality 
+* Map (Trying to figure out how to add a map)
 
 
 
